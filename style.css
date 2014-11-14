@@ -86,12 +86,11 @@ aside {
 	color: #585858;
 }
 
-.side{
+article{
 	background: #DDDDDD;
+	padding: 0 5px 5px 5px;
 }
 
-.side_head h2 { padding: 10px;
-}
 
 footer {
 	background: #BDBDBD;
