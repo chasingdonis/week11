@@ -36,7 +36,7 @@ header {
 		
 nav	{
 	margin-top: 10px;
-	background-color: #044375;
+	background-color: #57629C;
 	text-color: white;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -82,12 +82,22 @@ footer {
 	font-size: 80%;
 }
 
-ul {
-	padding-left: 20px;
-	padding-right: 2px;
-	padding-top: 1px;
-	list-style-type: square;
+nav ul {
+    margin: 0;
+	padding: 15px;
+	list-style-type: none;
 }
 
-p {margin-top: 15px; margin-bottom: 15px; margin-right: 20px;}/* CSS Document */
+nav ul li {
+	letter-spacing: 0px;
+	float: left;
+	width: 70px;
+	padding: 5px;
+	font-size: 0.8em;
+	font-family: Verdana, sans-serif;
+}
+
+p {
+	margin-top: 15px; margin-bottom: 15px; margin-right: 20px;
+	}/* CSS Document */
 
