@@ -27,7 +27,7 @@ h1 {color: white; padding: 25px;}
 
 h2 {margin-top: 15px;}
 	
-.header {
+header {
 	height: 250px;	
 	background-image: url("images/dot.png"), url("images/island_header.jpg");
 	background-repeat: no-repeat;
