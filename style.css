@@ -1,0 +1,93 @@
+@charset "UTF-8";
+* {
+    padding:0;
+    margin:0;
+}
+
+* { -moz-box-sizing: border-box; 
+-webkit-box-sizing: border-box; 
+box-sizing: border-box; }
+
+body {
+	background-color: #3671DF;
+	font-family: Arial, sans-serif;
+}
+
+.content {
+	width: 820px;
+	border: 7px solid #57629C;
+	background-color: white;
+	margin: 25px auto;
+        padding: 15px;
+	overflow: auto;
+	letter-space: 2px;
+}
+
+h1 {color: white; padding: 25px;}
+
+h2 {margin-top: 15px;}
+	
+.header {
+	height: 250px;	
+	background-image: url("images/dot.png"), url("images/island_header.jpg");
+	background-repeat: no-repeat;
+	background-position: 2% 6%;
+}
+		
+nav	{
+	margin-top: 10px;
+	background-color: #044375;
+	text-color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+		}
+
+a:link 	{
+    	text-decoration: none;
+    	color: white;
+    	padding: 10px;
+		}
+
+.main {
+	width: 65%;
+	background: white;
+	float: left;
+	padding: 5px;
+	line-height: 22px;
+}
+
+.sidebar {
+	width: 35%;
+	background: white;
+	float: right;
+	padding: 1px 5px 5px 5px;
+	line-height: 25px;
+	letter-spacing: .5px;
+	border: 2px solid #B9B7B7;
+	margin-top: 10px;
+}
+
+.side_head {
+	background: #DDDDDD;
+}
+
+.side_head h2 { padding: 10px;}
+
+#footer {
+	background: #BDBDBD;
+	text-align: center;
+	color: #585858;
+	clear: both;
+	padding: 1px;
+	font-size: 80%;
+}
+
+ul {
+	padding-left: 20px;
+	padding-right: 2px;
+	padding-top: 1px;
+	list-style-type: square;
+}
+
+p {margin-top: 15px; margin-bottom: 15px; margin-right: 20px;}/* CSS Document */
+
