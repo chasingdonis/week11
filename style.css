@@ -48,7 +48,7 @@ a:link 	{
     	padding: 10px;
 		}
 
-.main {
+main {
 	width: 65%;
 	background: white;
 	float: left;
@@ -73,7 +73,7 @@ a:link 	{
 
 .side_head h2 { padding: 10px;}
 
-#footer {
+footer {
 	background: #BDBDBD;
 	text-align: center;
 	color: #585858;
