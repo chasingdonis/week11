@@ -89,7 +89,8 @@ main {
 	background: #DDDDDD;
 }
 
-.side_head h2 { padding: 10px;}
+.side_head h2 { padding: 10px;
+}
 
 footer {
 	background: #BDBDBD;
@@ -110,5 +111,6 @@ ul li {
 
 p {
 	margin-top: 15px; margin-bottom: 15px; margin-right: 20px;
+	color: #585858;
 	}/* CSS Document */
 
